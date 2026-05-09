@@ -235,7 +235,7 @@ Full license text: https://creativecommons.org/publicdomain/zero/1.0/
 
 If you use this dataset, it'd be appreciated it if you could please cite it as:
 
-Ramos, K. W. N. (2026). *Mexico City Quadrant Air Quality Dataset for Anomaly Detection — via OpenAQ, 2016* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20095625
+Ramos, K. W. N. (2026). *Mexico City Quadrant Air Quality Dataset for Anomaly Detection — via OpenAQ, 2016* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20095744
 
 **BibTeX:**
 
@@ -246,7 +246,7 @@ Ramos, K. W. N. (2026). *Mexico City Quadrant Air Quality Dataset for Anomaly De
   year      = {2026},
   version   = {1.0.0},
   publisher = {Zenodo},
-  doi       = {[10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.20095625)}
+  doi       = {https://doi.org/10.5281/zenodo.20095744}
 }
 ```
 
