@@ -1,11 +1,10 @@
-================================================================================
+
   DATASET README
   Title   : Mexico City Quadrant Air Quality Dataset for Anomaly Detection
            (SINAICA via OpenAQ, 2016)
   Version : 1.0.0
   Date    : 2026-05-08
-  License : Creative Commons Attribution 4.0 International (CC BY 4.0)
-================================================================================
+
 
 ------------------------------------------------------------------------
 1. OVERVIEW
@@ -367,6 +366,6 @@ BibTeX:
     Google Colab notebook used to collect and process the data.
     Requires a free OpenAQ API key (Cell 2). 
 
-================================================================================
+
 END OF README
-================================================================================
+
