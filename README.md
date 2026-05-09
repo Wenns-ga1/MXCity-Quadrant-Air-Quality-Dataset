@@ -271,7 +271,7 @@ Notable spike events detected:
 ------------------------------------------------------------------------
 
 Column name           | Type    | Description
-----------------------+---------+-----------------------------------------
+---------------------+---------+-----------------------------------------
 timestamp_utc         | string  | ISO 8601 UTC timestamp (hourly)
 station_id            | string  | Unique station ID (e.g. MX1134)
 station_name          | string  | Human-readable station name
@@ -326,8 +326,8 @@ measurements are from publicly operated government monitoring
 infrastructure. Data was retrieved via the OpenAQ public API under its
 open data terms of service.
 
-Released under Creative Commons Attribution 4.0 International (CC BY 4.0).
-Full license text: https://creativecommons.org/licenses/by/4.0/
+Released under Creative Commons Zero v1.0 Universal
+Full license text: https://creativecommons.org/publicdomain/zero/1.0/
 
 
 ------------------------------------------------------------------------
@@ -335,12 +335,13 @@ Full license text: https://creativecommons.org/licenses/by/4.0/
 ------------------------------------------------------------------------
 If you use this dataset, please cite it as:
 
-  [Karlett Ramos Wendy Nathali]. (2026). Mexico City Quadrant Air Quality Dataset for Anomaly
+  [Karlett R. W. N.]. (2026). Mexico City Quadrant Air Quality Dataset for Anomaly
   Detection — SINAICA via OpenAQ, 2016
   (Version 1.0.0) [Data set]. Zenodo.
   https://doi.org/10.5281/zenodo.XXXXXXX
 
 BibTeX:
+```
   @dataset{yourname2026mexicocityaq,
     author    = {[Karlett Ramos, Wendy Nathali]},
     title     = {Mexico City Quadrant Air Quality Dataset for Anomaly
@@ -350,7 +351,7 @@ BibTeX:
     publisher = {Zenodo},
     doi       = {10.5281/zenodo.XXXXXXX}
   }
-
+```
 
 ------------------------------------------------------------------------
 12. FILE MANIFEST
